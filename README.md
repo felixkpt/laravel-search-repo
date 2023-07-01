@@ -169,7 +169,7 @@ Please note that this is just a sample documentation with an example usage of th
 
 ## License
 
-The SearchRepo class is released under the MIT License. For more details, please refer to the [LICENSE](https://github.com/your-repo/LICENSE) file.
+The SearchRepo class is released under the MIT License. For more details, please refer to the [LICENSE](https://opensource.org/license/mit/) file.
 
 ---
 
